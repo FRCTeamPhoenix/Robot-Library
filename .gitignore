@@ -19,7 +19,7 @@ CMakeLists.txt
 #compiled Dynamic libs
 *.so
 *.dylib
-
+*.project
 #compiled static libraries
 *.lsi
 *.la
